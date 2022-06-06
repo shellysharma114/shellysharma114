@@ -9,7 +9,15 @@
 - ⚡ I code for FUN in any language including   
          | Python | C/C++ |
          | :---: | :---: |
- 
+
+
+### About Me
+I am an engineering enthusiast currently enrolled in Banasthali University's Bachelors program of Technology majoring in Information Technology.
+<br>
+I am interested in the web development field and seeking exciting opportunities related the same.<br>
+I am always curious about things and enjoy learning. I like to solve problems and fix errors. <br>
+I am a detail oriented person and keep my goals and tasks organized to maintain productivity.<br>
+I believe that the attained skills from the dynamic environment and competitive university life define me . I am looking forward to implement and polish them for betterment.
 
 ### Technologies & Frameworks I have worked with : 
 
