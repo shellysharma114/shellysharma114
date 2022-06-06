@@ -1,8 +1,14 @@
-### Hi everyone!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
+<h1 align="center">Hi 👋, I'm Shelly Sharma</h1>
 
-I code for FUN in any language including   
-| Python | C/C++ |
- | :---: | :---: |
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
+
+- 📫 How to reach me **shellysharma346@gmail.com**
+- 💬 Happy to help anytime!
+- ⚡ I code for FUN in any language including   
+         | Python | C/C++ |
+         | :---: | :---: |
  
 
 ### Technologies & Frameworks I have worked with : 
@@ -16,8 +22,13 @@ I code for FUN in any language including
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-### Connect with me here:  
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shellysharma114&show_icons=true&locale=en&layout=compact" alt="shellysharma114" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shellysharma114&show_icons=true&locale=en" alt="shellysharma114" /></p>
+
+
+### Connect with me here:  
 
 <a href="https://www.linkedin.com/in/shelly-sharma-9172591b0/">
     <img align="left" alt="Shelly Sharma | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
@@ -28,8 +39,5 @@ I code for FUN in any language including
 <br>
 
 
-
-Email ID: shellysharma346@gmail.com
-- 💬 Happy to help anytime!
 
 ## :rainbow: Have a good day!
