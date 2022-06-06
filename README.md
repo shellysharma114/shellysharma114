@@ -7,8 +7,9 @@
 - 📫 How to reach me **shellysharma346@gmail.com**
 - 💬 Happy to help anytime!
 - ⚡ I code for FUN in any language including   
-         | Python | C/C++ |
-         | :---: | :---: |
+
+     | Python | C/C++ |
+     | :---: | :---: | 
 
 
 ### About Me
